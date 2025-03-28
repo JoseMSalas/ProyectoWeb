@@ -38,8 +38,8 @@
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
-    width: 450px;
-    height: 350px;
+    width: 500px;
+    height: 500px;
 }
 /*imagen3*/
 .galery__figure > img:nth-child(3){
