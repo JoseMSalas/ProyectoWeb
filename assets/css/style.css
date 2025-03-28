@@ -1,17 +1,17 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: white;
+    background-color: rgb(65, 64, 64);
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(65, 64, 64);
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el color de la letra del titulo*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
+    font-family: "Oswald", Arial, Sans-Serif;
+    color: rgb(122, 121, 121);
     font-size: 18px;
 }
 /*Cambia el color de fondo de los articulos*/

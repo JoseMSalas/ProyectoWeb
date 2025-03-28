@@ -1,28 +1,28 @@
-/*Cambia el color de fondo de la pagina en general*/
+/*Cambia el color de fondo de la pagina en general H*/
 .content{
-    background-color: white;
+    background-color: rgb(78, 78, 77);
 }
-/*Cambia el color de fondo del encabezado*/
+/*Cambia el color de fondo del encabezado H*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(182, 110, 110);
 }
-/*Cambia el color de la letra del titulo*/
+/*Cambia el color de la letra del titulo H*/
 .galery__link{
-    color: white;
+    color: rgb(8, 8, 8);
 }
-/*Cambia el tipo de letra del titulo a Oswald*/
-/*Cambia el tamaño de la letra del titulo a 36px*/
+/*Cambia el tipo de letra del titulo a Oswald H*/
+/*Cambia el tamaño de la letra del titulo a 36px H*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    font-size: 18px;
+    font-family: "Oswald", Arial, Sans-Serif;
+    font-size: 36px;
 }
-/*Cambia el tipo de letra del titulo de la galeria a Oswald*/
-/*Cambia el color de la letra del titulo de la galeria*/
-/*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
+/*Cambia el tipo de letra del titulo de la galeria a Oswald H*/
+/*Cambia el color de la letra del titulo de la galeria h*/
+/*Cambia el tamaño de la letra del titulo de la galeria a 24px h */
 .galery__issue{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: black;
-    font-size: 18px;
+    font-family: "Montserrat", Arial, Sans-Serif;
+    color: rgb(187, 185, 185);
+    font-size: 50px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Montserrat*/
 /*Cambia el color de la letra del titulo de la galeria*/
@@ -33,40 +33,40 @@
 /*Cambia las dimensiones de las fotos de la galeria*/
 /*imagen1*/
 .galery__figure > img:nth-child(1){
-    width: 500px;
-    height: 350px;
+    width: 1000px;
+    height: 510px;
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
-    width: 300px;
-    height: 350px;
+    width: 500px;
+    height: 500px;
 }
 /*imagen3*/
 .galery__figure > img:nth-child(3){
-    width: 300px;
-    height: 350px;
+    width: 500px;
+    height: 500px;
 }
 /*imagen4*/
 .galery__figure > img:nth-child(4){
-    width: 500px;
-    height: 350px;
+    width: 1000px;
+    height: 800px;
 }
 /*imagen5*/
 .galery__figure > img:nth-child(5){
-    width: 600px;
-    height: 350px;
+    width: 1000px;
+    height: 801px;
 }
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
 .footer{
-    background-color: black;
-    text-align: right;
+    background-color: rgb(182, 110, 110);
+    text-align: center;
 }
 /*Cambia el tipo de letra del pie de pagina a Montserrat*/
 /*Cambia el color de la letra del pie de pagina*/
 /*Cambia el tamaño de la letra del pie de pagina a 30px*/
 .paragraph__text{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
-    font-size: 18px;
+    font-family: "Montserrat", Arial, Sans-Serif;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
 }
