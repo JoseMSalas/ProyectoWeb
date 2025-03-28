@@ -13,14 +13,14 @@
 /*Cambia el tipo de letra del titulo a Oswald H*/
 /*Cambia el tamaño de la letra del titulo a 36px H*/
 .banner__title{
-    font-family: "Montserrat", Arial, Sans-Serif;
+    font-family: "Oswald", Arial, Sans-Serif;
     font-size: 36px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Oswald H*/
 /*Cambia el color de la letra del titulo de la galeria h*/
 /*Cambia el tamaño de la letra del titulo de la galeria a 24px h */
 .galery__issue{
-    font-family: "Oswald", Arial, Sans-Serif;
+    font-family: "Montserrat", Arial, Sans-Serif;
     color: rgb(255, 253, 253);
     font-size: 24px;
 }
