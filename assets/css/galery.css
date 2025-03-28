@@ -38,12 +38,12 @@
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
-    width: 300px;
+    width: 450px;
     height: 350px;
 }
 /*imagen3*/
 .galery__figure > img:nth-child(3){
-    width: 300px;
+    width: 500px;
     height: 350px;
 }
 /*imagen4*/
