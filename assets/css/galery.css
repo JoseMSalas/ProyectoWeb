@@ -1,26 +1,26 @@
-/*Cambia el color de fondo de la pagina en general*/
+/*Cambia el color de fondo de la pagina en general H*/
 .content{
     background-color: rgb(80, 77, 74);
 }
-/*Cambia el color de fondo del encabezado*/
+/*Cambia el color de fondo del encabezado H*/
 .header__banner{
     background-color: rgb(255, 255, 255);
 }
-/*Cambia el color de la letra del titulo*/
+/*Cambia el color de la letra del titulo H*/
 .galery__link{
     color: rgb(0, 0, 0);
 }
-/*Cambia el tipo de letra del titulo a Oswald*/
-/*Cambia el tamaño de la letra del titulo a 36px*/
+/*Cambia el tipo de letra del titulo a Oswald H*/
+/*Cambia el tamaño de la letra del titulo a 36px H*/
 .banner__title{
     font-family: "Oswald", Arial, Sans-Serif;
     font-size: 36px;
 }
-/*Cambia el tipo de letra del titulo de la galeria a Oswald*/
+/*Cambia el tipo de letra del titulo de la galeria a Oswald H*/
 /*Cambia el color de la letra del titulo de la galeria*/
 /*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
 .galery__issue{
-    font-family: "Sans Serif", Arial, Sans-Serif;
+    font-family: "Oswald", Arial, Sans-Serif;
     color: black;
     font-size: 18px;
 }
