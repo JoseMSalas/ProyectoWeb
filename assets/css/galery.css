@@ -1,20 +1,20 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: white;
+    background-color: rgb(80, 77, 74);
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 /*Cambia el color de la letra del titulo*/
 .galery__link{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    font-size: 18px;
+    font-family: "Oswald", Arial, Sans-Serif;
+    font-size: 36px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Oswald*/
 /*Cambia el color de la letra del titulo de la galeria*/
